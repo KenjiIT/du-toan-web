@@ -4,7 +4,6 @@
 
 - Windows 10/11 (64-bit)
 - Dung lượng đĩa trống: ~300 MB
-- Bộ dữ liệu đơn giá GXD (thư mục `Dulieu`, ~160 MB các file .mdb) — bắt buộc để có dữ liệu tra cứu
 
 ## Cách 1: Cài bản Installer (khuyến nghị)
 

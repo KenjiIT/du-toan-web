@@ -1,0 +1,280 @@
+﻿=== Importing Config.mdb ===
+  regulations: 9 rows
+  regions: 252 rows
+  cost_formula: 34 rows
+
+=== Norm: 12_2021_DM/BXD_XD+LD+SC_TT12-2021.mdb ===
+  BXD_XD+LD+SC_TT12-2021.mdb tbDonGia: 13015 rows
+  BXD_XD+LD+SC_TT12-2021.mdb tbDinhMuc: 38158 rows
+  BXD_XD+LD+SC_TT12-2021.mdb tbTuDienVatTu: 3121 rows
+  BXD_XD+LD+SC_TT12-2021.mdb tbGiaCaMay: 780 rows
+  BXD_XD+LD+SC_TT12-2021.mdb tbPhuLucVua: 771 rows
+
+=== Norm: 12_2021_DM/BXD_KS_TT12-2021.mdb ===
+  BXD_KS_TT12-2021.mdb tbDonGia: 449 rows
+  BXD_KS_TT12-2021.mdb tbDinhMuc: 4204 rows
+  BXD_KS_TT12-2021.mdb tbTuDienVatTu: 267 rows
+  BXD_KS_TT12-2021.mdb tbGiaCaMay: 780 rows
+  BXD_KS_TT12-2021.mdb tbPhuLucVua: 771 rows
+
+=== Norm: 12_2021_DM/BXD_LDM_TT12-2021.mdb ===
+  BXD_LDM_TT12-2021.mdb tbDonGia: 526 rows
+  BXD_LDM_TT12-2021.mdb tbDinhMuc: 7030 rows
+  BXD_LDM_TT12-2021.mdb tbTuDienVatTu: 220 rows
+  BXD_LDM_TT12-2021.mdb tbGiaCaMay: 780 rows
+  BXD_LDM_TT12-2021.mdb tbPhuLucVua: 771 rows
+
+=== Norm: 12_2021_DM/BXD_TNVL_TT12-2021.mdb ===
+  BXD_TNVL_TT12-2021.mdb tbDonGia: 505 rows
+  BXD_TNVL_TT12-2021.mdb tbDinhMuc: 3672 rows
+  BXD_TNVL_TT12-2021.mdb tbTuDienVatTu: 402 rows
+  BXD_TNVL_TT12-2021.mdb tbGiaCaMay: 780 rows
+  BXD_TNVL_TT12-2021.mdb tbPhuLucVua: 771 rows
+
+=== Norm: 38_2026_DM/BXD_XD+LD+SC_TT38-2026.mdb ===
+  BXD_XD+LD+SC_TT38-2026.mdb tbDonGia: 13320 rows
+  BXD_XD+LD+SC_TT38-2026.mdb tbDinhMuc: 39279 rows
+  BXD_XD+LD+SC_TT38-2026.mdb tbTuDienVatTu: 3270 rows
+  BXD_XD+LD+SC_TT38-2026.mdb tbGiaCaMay: 827 rows
+  BXD_XD+LD+SC_TT38-2026.mdb tbPhuLucVua: 780 rows
+
+=== Norm: 38_2026_DM/BXD_KS_TT38-2026.mdb ===
+  BXD_KS_TT38-2026.mdb tbDonGia: 449 rows
+  BXD_KS_TT38-2026.mdb tbDinhMuc: 4170 rows
+  BXD_KS_TT38-2026.mdb tbTuDienVatTu: 265 rows
+  BXD_KS_TT38-2026.mdb tbGiaCaMay: 827 rows
+  BXD_KS_TT38-2026.mdb tbPhuLucVua: 780 rows
+
+=== Norm: 38_2026_DM/BXD_LDM_TT38-2026.mdb ===
+  BXD_LDM_TT38-2026.mdb tbDonGia: 528 rows
+  BXD_LDM_TT38-2026.mdb tbDinhMuc: 7060 rows
+  BXD_LDM_TT38-2026.mdb tbTuDienVatTu: 223 rows
+  BXD_LDM_TT38-2026.mdb tbGiaCaMay: 827 rows
+  BXD_LDM_TT38-2026.mdb tbPhuLucVua: 780 rows
+
+=== Norm: 38_2026_DM/BXD_TNVL_TT38-2026.mdb ===
+  BXD_TNVL_TT38-2026.mdb tbDonGia: 505 rows
+  BXD_TNVL_TT38-2026.mdb tbDinhMuc: 3672 rows
+  BXD_TNVL_TT38-2026.mdb tbTuDienVatTu: 401 rows
+  BXD_TNVL_TT38-2026.mdb tbGiaCaMay: 827 rows
+  BXD_TNVL_TT38-2026.mdb tbPhuLucVua: 780 rows
+
+=== Regional: HoChiMinh/HoChiMinh2001_SC.mdb ===
+  HoChiMinh2001_SC.mdb tbDonGia: 1154 rows
+  HoChiMinh2001_SC.mdb tbDinhMuc: 4252 rows
+  HoChiMinh2001_SC.mdb tbTuDienVatTu: 379 rows
+  HoChiMinh2001_SC.mdb tbGiaCaMay: 0 rows
+  HoChiMinh2001_SC.mdb tbPhuLucVua: 892 rows
+  HoChiMinh2001_SC.mdb tbThongTin: 5 rows
+
+=== Regional: HoChiMinh/HoChiMinh2006.mdb ===
+  HoChiMinh2006.mdb tbDonGia: 7868 rows
+  HoChiMinh2006.mdb tbDinhMuc: 43978 rows
+  HoChiMinh2006.mdb tbTuDienVatTu: 4403 rows
+  HoChiMinh2006.mdb tbGiaCaMay: 906 rows
+  HoChiMinh2006.mdb tbPhuLucVua: 785 rows
+  HoChiMinh2006.mdb tbThongTin: 11 rows
+
+=== Regional: HoChiMinh/HoChiMinh2008.mdb ===
+  HoChiMinh2008.mdb tbDonGia: 7868 rows
+  HoChiMinh2008.mdb tbDinhMuc: 43978 rows
+  HoChiMinh2008.mdb tbTuDienVatTu: 4403 rows
+  HoChiMinh2008.mdb tbGiaCaMay: 906 rows
+  HoChiMinh2008.mdb tbPhuLucVua: 918 rows
+  HoChiMinh2008.mdb tbThongTin: 11 rows
+
+=== Regional: HoChiMinh/HoChiMinh2014.mdb ===
+  HoChiMinh2014.mdb tbDonGia: 10633 rows
+  HoChiMinh2014.mdb tbDinhMuc: 48945 rows
+  HoChiMinh2014.mdb tbTuDienVatTu: 4845 rows
+  HoChiMinh2014.mdb tbGiaCaMay: 954 rows
+  HoChiMinh2014.mdb tbPhuLucVua: 930 rows
+  HoChiMinh2014.mdb tbThongTin: 10 rows
+
+=== Regional: HoChiMinh/HoChiMinh2016_KS.mdb ===
+  HoChiMinh2016_KS.mdb tbDonGia: 542 rows
+  HoChiMinh2016_KS.mdb tbDinhMuc: 6279 rows
+  HoChiMinh2016_KS.mdb tbTuDienVatTu: 424 rows
+  HoChiMinh2016_KS.mdb tbGiaCaMay: 1213 rows
+  HoChiMinh2016_KS.mdb tbPhuLucVua: 896 rows
+  HoChiMinh2016_KS.mdb tbThongTin: 16 rows
+
+=== Regional: HoChiMinh/HoChiMinh2016_XD+LD+SC+2018BS.mdb ===
+  HoChiMinh2016_XD+LD+SC+2018BS.mdb tbDonGia: 12353 rows
+  HoChiMinh2016_XD+LD+SC+2018BS.mdb tbDinhMuc: 51338 rows
+  HoChiMinh2016_XD+LD+SC+2018BS.mdb tbTuDienVatTu: 4286 rows
+  HoChiMinh2016_XD+LD+SC+2018BS.mdb tbGiaCaMay: 1214 rows
+  HoChiMinh2016_XD+LD+SC+2018BS.mdb tbPhuLucVua: 911 rows
+  HoChiMinh2016_XD+LD+SC+2018BS.mdb tbThongTin: 9 rows
+
+=== Regional: HoChiMinh/HoChiMinh2016_XD+LD+SC.mdb ===
+  HoChiMinh2016_XD+LD+SC.mdb tbDonGia: 11870 rows
+  HoChiMinh2016_XD+LD+SC.mdb tbDinhMuc: 49206 rows
+  HoChiMinh2016_XD+LD+SC.mdb tbTuDienVatTu: 3824 rows
+  HoChiMinh2016_XD+LD+SC.mdb tbGiaCaMay: 1214 rows
+  HoChiMinh2016_XD+LD+SC.mdb tbPhuLucVua: 911 rows
+  HoChiMinh2016_XD+LD+SC.mdb tbThongTin: 18 rows
+
+=== Regional: HoChiMinh/HoChiMinh2018_KS.mdb ===
+  HoChiMinh2018_KS.mdb tbDonGia: 492 rows
+  HoChiMinh2018_KS.mdb tbDinhMuc: 4783 rows
+  HoChiMinh2018_KS.mdb tbTuDienVatTu: 271 rows
+  HoChiMinh2018_KS.mdb tbGiaCaMay: 1227 rows
+  HoChiMinh2018_KS.mdb tbPhuLucVua: 911 rows
+  HoChiMinh2018_KS.mdb tbThongTin: 8 rows
+
+=== Regional: HoChiMinh/HoChiMinh2023+2025_LDM_TT12-2021_TT09-2024.mdb ===
+  HoChiMinh2023+2025_LDM_TT12-2021_TT09-2024.mdb tbDonGia: 528 rows
+  HoChiMinh2023+2025_LDM_TT12-2021_TT09-2024.mdb tbDinhMuc: 7060 rows
+  HoChiMinh2023+2025_LDM_TT12-2021_TT09-2024.mdb tbTuDienVatTu: 228 rows
+  HoChiMinh2023+2025_LDM_TT12-2021_TT09-2024.mdb tbGiaCaMay: 783 rows
+  HoChiMinh2023+2025_LDM_TT12-2021_TT09-2024.mdb tbPhuLucVua: 777 rows
+  HoChiMinh2023+2025_LDM_TT12-2021_TT09-2024.mdb tbThongTin: 7 rows
+
+=== Regional: HoChiMinh/HoChiMinh2023+2025_XD+LD+SC_TT12-2021_TT09-2024.mdb ===
+  HoChiMinh2023+2025_XD+LD+SC_TT12-2021_TT09-2024.mdb tbDonGia: 14428 rows
+  HoChiMinh2023+2025_XD+LD+SC_TT12-2021_TT09-2024.mdb tbDinhMuc: 41039 rows
+  HoChiMinh2023+2025_XD+LD+SC_TT12-2021_TT09-2024.mdb tbTuDienVatTu: 3420 rows
+  HoChiMinh2023+2025_XD+LD+SC_TT12-2021_TT09-2024.mdb tbGiaCaMay: 783 rows
+  HoChiMinh2023+2025_XD+LD+SC_TT12-2021_TT09-2024.mdb tbPhuLucVua: 777 rows
+  HoChiMinh2023+2025_XD+LD+SC_TT12-2021_TT09-2024.mdb tbThongTin: 8 rows
+
+=== Regional: HoChiMinh/HoChiMinh2023_KS_TT12-2021.mdb ===
+  HoChiMinh2023_KS_TT12-2021.mdb tbDonGia: 449 rows
+  HoChiMinh2023_KS_TT12-2021.mdb tbDinhMuc: 4204 rows
+  HoChiMinh2023_KS_TT12-2021.mdb tbTuDienVatTu: 267 rows
+  HoChiMinh2023_KS_TT12-2021.mdb tbGiaCaMay: 780 rows
+  HoChiMinh2023_KS_TT12-2021.mdb tbPhuLucVua: 777 rows
+  HoChiMinh2023_KS_TT12-2021.mdb tbThongTin: 8 rows
+
+=== Regional: HoChiMinh/HoChiMinh2023_LDM_TT12-2021.mdb ===
+  HoChiMinh2023_LDM_TT12-2021.mdb tbDonGia: 526 rows
+  HoChiMinh2023_LDM_TT12-2021.mdb tbDinhMuc: 7030 rows
+  HoChiMinh2023_LDM_TT12-2021.mdb tbTuDienVatTu: 223 rows
+  HoChiMinh2023_LDM_TT12-2021.mdb tbGiaCaMay: 781 rows
+  HoChiMinh2023_LDM_TT12-2021.mdb tbPhuLucVua: 777 rows
+  HoChiMinh2023_LDM_TT12-2021.mdb tbThongTin: 8 rows
+
+=== Regional: HoChiMinh/HoChiMinh2023_TNVL_TT12-2021.mdb ===
+  HoChiMinh2023_TNVL_TT12-2021.mdb tbDonGia: 505 rows
+  HoChiMinh2023_TNVL_TT12-2021.mdb tbDinhMuc: 3672 rows
+  HoChiMinh2023_TNVL_TT12-2021.mdb tbTuDienVatTu: 399 rows
+  HoChiMinh2023_TNVL_TT12-2021.mdb tbGiaCaMay: 780 rows
+  HoChiMinh2023_TNVL_TT12-2021.mdb tbPhuLucVua: 777 rows
+  HoChiMinh2023_TNVL_TT12-2021.mdb tbThongTin: 8 rows
+
+=== Regional: HoChiMinh/HoChiMinh2023_XD+LD+SC_TT12-2021.mdb ===
+  HoChiMinh2023_XD+LD+SC_TT12-2021.mdb tbDonGia: 14325 rows
+  HoChiMinh2023_XD+LD+SC_TT12-2021.mdb tbDinhMuc: 40683 rows
+  HoChiMinh2023_XD+LD+SC_TT12-2021.mdb tbTuDienVatTu: 3397 rows
+  HoChiMinh2023_XD+LD+SC_TT12-2021.mdb tbGiaCaMay: 780 rows
+  HoChiMinh2023_XD+LD+SC_TT12-2021.mdb tbPhuLucVua: 777 rows
+  HoChiMinh2023_XD+LD+SC_TT12-2021.mdb tbThongTin: 8 rows
+
+=== Regional: HoChiMinh/HoChiMinh2025_LD_DZ+TBA_DM36-2022.mdb ===
+  HoChiMinh2025_LD_DZ+TBA_DM36-2022.mdb tbDonGia: 1838 rows
+  HoChiMinh2025_LD_DZ+TBA_DM36-2022.mdb tbDinhMuc: 8343 rows
+  HoChiMinh2025_LD_DZ+TBA_DM36-2022.mdb tbTuDienVatTu: 158 rows
+  HoChiMinh2025_LD_DZ+TBA_DM36-2022.mdb tbGiaCaMay: 930 rows
+  HoChiMinh2025_LD_DZ+TBA_DM36-2022.mdb tbPhuLucVua: 777 rows
+  HoChiMinh2025_LD_DZ+TBA_DM36-2022.mdb tbThongTin: 8 rows
+
+=== Regional: HoChiMinh/HoChiMinh2025_TN_DZ+TBA_TT05-2023.mdb ===
+  HoChiMinh2025_TN_DZ+TBA_TT05-2023.mdb tbDonGia: 523 rows
+  HoChiMinh2025_TN_DZ+TBA_TT05-2023.mdb tbDinhMuc: 5806 rows
+  HoChiMinh2025_TN_DZ+TBA_TT05-2023.mdb tbTuDienVatTu: 299 rows
+  HoChiMinh2025_TN_DZ+TBA_TT05-2023.mdb tbGiaCaMay: 912 rows
+  HoChiMinh2025_TN_DZ+TBA_TT05-2023.mdb tbPhuLucVua: 777 rows
+  HoChiMinh2025_TN_DZ+TBA_TT05-2023.mdb tbThongTin: 8 rows
+
+=== Regional: HoChiMinh/HoChiMinh2025_XD+SC+LDM_TT09-2024.mdb ===
+  HoChiMinh2025_XD+SC+LDM_TT09-2024.mdb tbDonGia: 298 rows
+  HoChiMinh2025_XD+SC+LDM_TT09-2024.mdb tbDinhMuc: 1175 rows
+  HoChiMinh2025_XD+SC+LDM_TT09-2024.mdb tbTuDienVatTu: 199 rows
+  HoChiMinh2025_XD+SC+LDM_TT09-2024.mdb tbGiaCaMay: 783 rows
+  HoChiMinh2025_XD+SC+LDM_TT09-2024.mdb tbPhuLucVua: 777 rows
+  HoChiMinh2025_XD+SC+LDM_TT09-2024.mdb tbThongTin: 8 rows
+
+=== Regional: HaNoi/HaNoi2023_KS_TT12-2021.mdb ===
+  HaNoi2023_KS_TT12-2021.mdb tbDonGia: 449 rows
+  HaNoi2023_KS_TT12-2021.mdb tbDinhMuc: 4204 rows
+  HaNoi2023_KS_TT12-2021.mdb tbTuDienVatTu: 268 rows
+  HaNoi2023_KS_TT12-2021.mdb tbGiaCaMay: 782 rows
+  HaNoi2023_KS_TT12-2021.mdb tbPhuLucVua: 777 rows
+  HaNoi2023_KS_TT12-2021.mdb tbThongTin: 8 rows
+
+=== Regional: HaNoi/HaNoi2023_XD+LD+SC_TT12-2021.mdb ===
+  HaNoi2023_XD+LD+SC_TT12-2021.mdb tbDonGia: 12935 rows
+  HaNoi2023_XD+LD+SC_TT12-2021.mdb tbDinhMuc: 38035 rows
+  HaNoi2023_XD+LD+SC_TT12-2021.mdb tbTuDienVatTu: 3125 rows
+  HaNoi2023_XD+LD+SC_TT12-2021.mdb tbGiaCaMay: 782 rows
+  HaNoi2023_XD+LD+SC_TT12-2021.mdb tbPhuLucVua: 777 rows
+  HaNoi2023_XD+LD+SC_TT12-2021.mdb tbThongTin: 8 rows
+
+=== Importing Nhancong.mdb ===
+  nhan_cong: 428 rows
+
+=== Importing CVC.mdb ===
+  cvc_dm_bocxep: 20 rows
+  cvc_dm_may: 184 rows
+  cvc_dm_thucong: 24 rows
+  cvc_hs_diahinh: 3 rows
+  cvc_hs_dodoc: 6 rows
+  cvc_hs_loaiduong: 6 rows
+  cvc_ma_may: 7 rows
+
+=== GNC: HoChiMinh ===
+  GNC GNC_QD1491_31.12.2024_TPHCM_TT13.mdb: 18 rows
+  GNC GNC_QD3141_26.12.2023_TPHCM_TT13.mdb: 18 rows
+  GNC GNC_QD4570_24.7.2026_TPHCM_TT37.mdb: 17 rows
+  GNC GNC_TTr24870_10.7.2026_TPHCM_TT37.mdb: 17 rows
+  GNC GXD_QD1396_15.10.2021_TPHCM_TT13.mdb: 18 rows
+  GNC GXD_QD2188_21.11.2022_TPHCM_TT13.mdb: 18 rows
+  GNC GXD_QD2207_18.6.2020_TPHCM.mdb: 25 rows
+  GNC GXD_QD3987_27.10.2020_TPHCM.mdb: 25 rows
+
+=== GNC: HaNoi ===
+  GNC GXD_QD1265_31.12.2021_HaNoi_TT13.mdb: 18 rows
+  GNC GXD_QD934_30.12.2022_HaNoi_TT13.mdb: 18 rows
+
+=== GCM: HoChiMinh ===
+  GCM GCM_QD1396_15.10.2021_TP.HCM_TT13.mdb zone I: 779 rows
+  GCM GCM_QD1396_15.10.2021_TP.HCM_TT13.mdb zone II: 779 rows
+  GCM GCM_QD2188_21.11.2022_TP.HCM_TT13.mdb zone I: 779 rows
+  GCM GCM_QD2188_21.11.2022_TP.HCM_TT13.mdb zone II: 779 rows
+  GCM GCM_QD3141_26.12.2023_TP.HCM_TT13.mdb zone I: 780 rows
+  GCM GCM_QD3141_26.12.2023_TP.HCM_TT13.mdb zone II: 780 rows
+  GCM GCM_QD3987_27.10.2020_TP.HCM.mdb zone I: 864 rows
+  GCM GCM_QD3987_27.10.2020_TP.HCM.mdb zone II: 864 rows
+
+=== GCM: HaNoi ===
+
+=== Creating indexes ===
+=== Creating FTS5 search index ===
+  FTS5 index: 128881 rows
+
+============================================================
+MIGRATION COMPLETE — Row counts:
+============================================================
+  regulations: 9
+  regions: 252
+  cost_formula: 34
+  don_gia: 128,881
+  dinh_muc: 521,255
+  tu_dien_vat_tu: 42,987
+  gia_ca_may: 22,938
+  phu_luc_vua: 21,905
+  nhan_cong: 428
+  thong_tin: 175
+  gia_nhan_cong: 192
+  gia_ca_may_vung: 6,404
+  cvc_dm_bocxep: 20
+  cvc_dm_may: 184
+  cvc_dm_thucong: 24
+  cvc_hs_diahinh: 3
+  cvc_hs_dodoc: 6
+  cvc_hs_loaiduong: 6
+  cvc_ma_may: 7
+
+Database size: 105.9 MB
+Database path: C:\Users\minhk\orca\projects\du-toan-web\backend\data\dutoan.db

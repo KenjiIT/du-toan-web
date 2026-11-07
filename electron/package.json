@@ -1,0 +1,75 @@
+{
+  "name": "du-toan-desktop",
+  "version": "1.0.0",
+  "description": "Phần mềm dự toán xây dựng",
+  "author": "Du Toan Web",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "node scripts/build.js",
+    "package": "node scripts/package.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^33.0.0",
+    "electron-builder": "^25.0.0"
+  },
+  "build": {
+    "appId": "com.dutoan.web",
+    "productName": "Du Toan Web",
+    "directories": {
+      "output": "release"
+    },
+    "extraResources": [
+      {
+        "from": "dist/backend",
+        "to": "backend"
+      },
+      {
+        "from": "dist/frontend",
+        "to": "frontend"
+      },
+      {
+        "from": "dist/python",
+        "to": "python"
+      }
+    ],
+    "files": [
+      "main.js",
+      "preload.js",
+      "assets/**/*"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "assets/icon.ico",
+      "signAndEditExecutable": false
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "installerLanguages": [
+        "vi"
+      ],
+      "language": 1066,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Dự Toán Web"
+    },
+    "portable": {
+      "artifactName": "DuToanWeb-Portable-${version}.exe"
+    }
+  }
+}

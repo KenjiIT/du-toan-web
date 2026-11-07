@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.db
+
+# Node
+node_modules/
+.next/
+out/
+
+# Electron build artifacts
+electron/dist/
+electron/release/
+electron/.cache/
+electron/assets/icon_preview.png
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+.env.local
+
+# Data files (large, user-specific)
+backend/data/*.db
+backend/data/*.mdb

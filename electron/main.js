@@ -4,6 +4,7 @@ const path = require('path');
 const http = require('http');
 const fs = require('fs');
 const url = require('url');
+const { autoUpdater } = require('electron-updater');
 
 // ── Single instance lock ────────────────────────────────────────────
 const gotLock = app.requestSingleInstanceLock();
@@ -361,6 +362,55 @@ function createTray() {
     });
 }
 
+// ── Auto-updater ───────────────────────────────────────────────────
+function setupAutoUpdater() {
+    if (isDev) return;
+
+    autoUpdater.autoDownload = false;
+    autoUpdater.autoInstallOnAppQuit = true;
+
+    autoUpdater.on('update-available', (info) => {
+        dialog
+            .showMessageBox(mainWindow, {
+                type: 'info',
+                title: 'Cập nhật mới',
+                message: `Phiên bản ${info.version} đã có sẵn!`,
+                detail: 'Bạn có muốn tải và cài đặt bản cập nhật?',
+                buttons: ['Tải ngay', 'Để sau'],
+                defaultId: 0,
+            })
+            .then(({ response }) => {
+                if (response === 0) {
+                    autoUpdater.downloadUpdate();
+                }
+            });
+    });
+
+    autoUpdater.on('update-downloaded', () => {
+        dialog
+            .showMessageBox(mainWindow, {
+                type: 'info',
+                title: 'Cập nhật sẵn sàng',
+                message: 'Bản cập nhật đã tải xong.',
+                detail: 'Ứng dụng sẽ khởi động lại để cài đặt.',
+                buttons: ['Khởi động lại', 'Để sau'],
+                defaultId: 0,
+            })
+            .then(({ response }) => {
+                if (response === 0) {
+                    isQuitting = true;
+                    autoUpdater.quitAndInstall();
+                }
+            });
+    });
+
+    autoUpdater.on('error', (err) => {
+        console.log('Auto-updater error:', err.message);
+    });
+
+    autoUpdater.checkForUpdates();
+}
+
 // ── App lifecycle ───────────────────────────────────────────────────
 app.on('second-instance', () => {
     if (mainWindow) {
@@ -382,6 +432,7 @@ app.on('ready', async () => {
         await waitForServer('http://localhost:8000');
         await waitForServer('http://localhost:3000');
         await createWindow();
+        setupAutoUpdater();
     } catch (err) {
         if (splashWindow) {
             splashWindow.close();

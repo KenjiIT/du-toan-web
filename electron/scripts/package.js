@@ -242,7 +242,8 @@ async function main() {
 
     // ── Step 6: Package with electron-builder ───────────────────────
     console.log('[6/6] Packaging with electron-builder...');
-    run('npx electron-builder --win --x64', ELECTRON_DIR);
+    const publishFlag = process.env.CI ? '--publish never' : '';
+    run(`npx electron-builder --win --x64 ${publishFlag}`, ELECTRON_DIR);
 
     // ── Done ────────────────────────────────────────────────────────
     const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);

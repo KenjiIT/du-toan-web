@@ -18,7 +18,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -28,10 +28,6 @@ jobs:
       - name: Install frontend dependencies
         working-directory: frontend
         run: npm ci
-
-      - name: Build frontend (static export)
-        working-directory: frontend
-        run: npx next build
 
       - name: Install Electron dependencies
         working-directory: electron
@@ -49,6 +45,7 @@ jobs:
           files: |
             electron/release/*.exe
             electron/release/*.yml
+            electron/release/*.blockmap
           draft: false
           prerelease: false
           generate_release_notes: true
